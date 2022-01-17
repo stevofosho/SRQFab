@@ -1,0 +1,5 @@
+SKU 96807|199.95|
+Mesh:Base+1.00|Raptor+2.50|
+Emblem:None+0.00|Stock Emblem+5.00|White Toyota Lettering+4|4Runner+3.00|
+Lighting:Raptor Lights+10|Large Raptor Lights+15|
+Surround:Black+1|Chrome+2|Black w/ TRD Stripes (Silver/Red)+5|Black w/ Custom TRD Stripes (2 Stripes)+7|Colormatch+5|
