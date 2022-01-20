@@ -25,6 +25,7 @@ public class Product extends BaseProduct {
 	
 	public static void main(String[] args) {
 		
+		System.out.println("Hello world!");
 		
 		//Grab all files in inputFile directory
 		File dir = new File(INPUT_FILEPATH);
